@@ -49,8 +49,8 @@ Este projeto foi desenvolvido utilizando o modelo `deepseek-r1:1.5b` via `langch
 
 ### 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/chat-deepseek.git
-cd chat-deepseek
+git clone https://github.com/robertojunior1202/deepseek-local-chat.git
+cd deepseek-local-chat
 ```
 ### 2. Crie um ambiente virtual e ative-o:
 ```bash
